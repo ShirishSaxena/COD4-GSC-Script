@@ -1,0 +1,62 @@
+<configuration plugin="showy">
+	<settings name="Showy">
+	
+			<!-- These are Enhanced Commands for 'Master-Admin' & 'Super-Admin' -->
+			
+		<set name="superlookup-slookup">40</set>
+		<set name="allaliases-a">20</set>
+		<set name="superbaninfo-sbaninfo">40</set>
+		<set name="listbans-lbans">20</set>
+		<set name="listids-lid">2</set>
+		<set name="pastbans-pbans">40</set>
+		
+	</settings>
+	<settings name="For_NcxMod">
+	
+	<!-- These are Enhanced Commands for 'NcX Custom Promod' -->
+	
+	<!-- Remove this Command If you don't have Custom Promod Mod By Ncx -->
+	
+	
+	<!-- Remove lines below this  -->
+		<set name="balance-bal">1</set>
+		<set name="scr33m">60</set>
+		<set name="freeze-fz">80</set>
+		<set name="changename-cn">100</set>
+		<set name="changeteams-ct">80</set>
+		<set name="sniperonly-sniper">80</set>
+		<set name="nsonly-nsonly">80</set>
+		<set name="knifeonly-knife">80</set>
+		<set name="deagleonly-dgun">80</set>
+		<set name="shotgunonly-shotgun">80</set>
+		<set name="unfreeze-ufz">80</set>
+		<set name="killp-killplayer">80</set>
+	
+	<!-- To this... and It'll be off -->
+		
+	</settings>
+	
+	<settings name="Mostly_For_Promod">
+	
+	<!-- These are Enhanced Commands for 'Master-Admin' & 'Super-Admin' -->
+	<!-- Mostly for PROMOD -->
+	
+		<set name="plimit-promodlimit">80</set>
+		<set name="killcam">60</set>
+		<set name="spectate">60</set>
+		<set name="ff">60</set>
+		
+	</settings>
+	
+	<settings name="Extra">
+	
+	<!-- These are Enhanced Commands for 'Master-Admin' & 'Super-Admin' -->
+		<set name="getip-IPLooK">20</set>
+        <set name="mag">60</set>
+		 <set name="fov">0</set>
+		  <set name="fullbright">0</set>
+		<set name="fastrestart-re">60</set>
+        <set name="gametype-gt">60</set>
+	</settings>
+	
+</configuration>
