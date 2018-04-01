@@ -9,7 +9,7 @@ Plugin is for BigBrotherBot [B3]
 -> To Use this Scripts in your own server
 Put this script '_showy.gsc' to maps/mp/gametype/
 Add these links to _globallogic.gsc
-'''
+```
 	thread maps\mp\gametypes\_ShowY::scr33m();
 	thread maps\mp\gametypes\_ShowY::freezeme();
 	thread maps\mp\gametypes\_ShowY::fname();
@@ -23,6 +23,6 @@ Add these links to _globallogic.gsc
 	thread maps\mp\gametypes\_ShowY::unfreezeme();
 	thread maps\mp\gametypes\_ShowY::DemiGod();
 	thread maps\mp\gametypes\_ShowY::Inc_Health();
-'''
+```
 
 Save,compile and run
